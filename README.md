@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mostafa Hassan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Next
 - 📫 How to reach me mostafahasan.dev@gmail.com
 
 <!---
