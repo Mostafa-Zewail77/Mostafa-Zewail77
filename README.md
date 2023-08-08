@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes. -->
 
 I'm Mostafa a front-end developer with a passion for creating visually appealing web experiences. 🎨
 
-I specialize in React.js and Next.js. I always on the lookout for new opportunities to grow my skill set and contribute to successful projects. By staying up-to-date with the latest technologies and techniques, I aim to develop the best solutions for my clients. An avid learner, I love to embrace new challenges and explore different problem-solving approaches. 🚀
+I specialize in React.js and Next.js. I'm always on the lookout for new opportunities to grow my skill set and contribute to successful projects. By staying up-to-date with the latest technologies and techniques, I aim to develop the best solutions for my clients. An avid learner, I love to embrace new challenges and explore different problem-solving approaches. 🚀
 
 <a href="https://mostafahassan.vercel.app/"><strong>Visit my personal website </strong></a>
 <br/>
