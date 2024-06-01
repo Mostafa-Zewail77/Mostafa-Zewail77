@@ -68,6 +68,37 @@ If you're as passionate about web development as I am or if you're looking for a
 </div>
 <br/>
 <br/>
+<!--
+<div align="center">
+  <a href="https://www.credly.com/badges/da409856-f8be-4ff7-ae73-1acd34a5c7c3/public_url">
+    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/4f6f8d7f-34f0-487e-ac0a-455f14179fc5" alt="Badge 1" width="170" height="170">
+  </a>
+  <a href="https://www.credly.com/badges/cdb1b6d9-2a4b-46b8-b581-8df9e12397ee/public_url">
+    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/04e908a5-986d-45f9-9adf-0a0043b53797" 
+     alt="cloud-native-devops-agile-nosql-essentials" width="170" height="170">
+  </a>
+  <a href="https://www.credly.com/badges/dd8dc5d2-5dbd-4c26-913b-75cd1e4efc11/public_url">
+    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/bc725c30-029f-4e85-885f-b30ee22bedc1" 
+     alt="web-development-with-html-css-javascript-essentials" width="170" height="170">
+  </a>
+  <a href="https://www.credly.com/badges/5af6ae5d-4a9b-4beb-a2f0-f34a5c9c5c57/public_url">
+    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/2771755b-734d-446b-8212-8ad4dfe591aa" 
+     alt="Software Engineering Essentials" width="170" height="170">
+  </a>
+  <a href="https://www.credly.com/badges/0d5ea9eb-20ed-471a-805a-93f75e0cbf3c/public_url">
+    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/fa3f54c0-c3cb-45e9-9ab2-ed7ee3d1f6b0" 
+     alt="intermediate-front-end-web-development" width="170" height="170">
+  </a>
+  <a href="https://www.credly.com/badges/6a894718-c1f2-4bff-8c71-065b354b79a5/public_url">
+    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/00d24b3b-9a0b-43ac-a0c3-6b6f621e5eff" 
+     alt="git-and-github" width="170" height="170">
+  </a>
+  <a href="https://www.credly.com/badges/fcac150f-a697-473c-b241-75eca8bdaecc/public_url">
+    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/4596f456-25bf-4aad-bbb4-cc1d55098d79" 
+     alt="front-end-development-with-react" width="170" height="170">
+  </a>
+</div>
+-->
 
 ## 📊 GitHub Stats:
 
