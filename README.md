@@ -53,9 +53,9 @@ I specialize in React.js and Next.js. I'm always on the lookout for new opportun
 ## 🏆 Badges
 
 <div align="center">
-  <a href="https://www.credly.com/badges/da409856-f8be-4ff7-ae73-1acd34a5c7c3/public_url">
+  <a href="https://www.credly.com/badges/da409856-f8be-4ff7-ae73-1acd34a5c7c3/public_url" >
     <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/6ace4dab-53f7-4cbc-ab52-ebe3b2c635a2" 
-     alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100">
+     alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100" >
   </a>
   <a href="https://www.credly.com/badges/cdb1b6d9-2a4b-46b8-b581-8df9e12397ee/public_url">
     <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/b7b7acb4-30d8-4177-891e-c8bf6a43d051" 
@@ -74,13 +74,22 @@ I specialize in React.js and Next.js. I'm always on the lookout for new opportun
      alt="intermediate-front-end-web-development" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/6a894718-c1f2-4bff-8c71-065b354b79a5/public_url">
-    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/f140819a-8c85-487f-8e5e-4a6a0c28de48" 
+    <img src="https://github.com/user-attachments/assets/1353abeb-ee98-4918-9437-aef6c4d09431" 
      alt="git-and-github" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/fcac150f-a697-473c-b241-75eca8bdaecc/public_url">
     <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/0e2260c2-53d7-4359-ad34-4f1260fc4470" 
      alt="front-end-development-with-react" width="100" height="100">
   </a>
+  <a href="https://www.credly.com/badges/bc19188a-95e8-4f3e-84af-89718a7703b9/public_url">
+    <img src="https://github.com/user-attachments/assets/f8e21fd0-c48a-4b16-be9a-4d5bdefdec43" 
+     alt="developing-websites-and-front-ends-with-bootstrap" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/0257d0e5-9b96-49c4-be78-8a108f427696/public_url">
+    <img src="https://github.com/user-attachments/assets/23e75685-e3ed-491f-befe-92f4613506ed" 
+     alt="getting-started-with-front-end-and-web-development" width="100" height="100">
+  </a>
+
 </div>
 
  ## 🤝🏻 &nbsp;Let's Connect!
