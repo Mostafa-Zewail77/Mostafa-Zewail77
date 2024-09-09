@@ -62,9 +62,9 @@ I specialize in React.js and Next.js. I'm always on the lookout for new opportun
      alt="cloud-native-devops-agile-nosql-essentials" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/dd8dc5d2-5dbd-4c26-913b-75cd1e4efc11/public_url">
-    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/bc725c30-029f-4e85-885f-b30ee22bedc1" 
+    <img src="https://github.com/user-attachments/assets/2651181b-e12a-454b-89b3-a9410ac4a886" 
      alt="web-development-with-html-css-javascript-essentials" width="100" height="100">
-  </a>
+  </a>  
   <a href="https://www.credly.com/badges/5af6ae5d-4a9b-4beb-a2f0-f34a5c9c5c57/public_url">
     <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/9f3bbb3b-20be-45ef-9dac-e4ccef82ac41" 
      alt="Software Engineering Essentials" width="100" height="100">
@@ -73,6 +73,7 @@ I specialize in React.js and Next.js. I'm always on the lookout for new opportun
     <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/1c3e9b1c-7a44-4526-9e63-639b53efd0f7" 
      alt="intermediate-front-end-web-development" width="100" height="100">
   </a>
+  <br/>
   <a href="https://www.credly.com/badges/6a894718-c1f2-4bff-8c71-065b354b79a5/public_url">
     <img src="https://github.com/user-attachments/assets/1353abeb-ee98-4918-9437-aef6c4d09431" 
      alt="git-and-github" width="100" height="100">
